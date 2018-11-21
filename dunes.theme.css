@@ -22,7 +22,7 @@ This theme is meant to be used with the dark version of discord
 /*###################################################################################################*/
 :root {
   --bgImage: url("https://i.imgur.com/ZoWEHGm.jpg");
-  --mainColor: #202b4a;
-  --mainDarker: #2b44a1;
-  --links: #e60000;
+  --mainColor: #2e3e6b;
+  --mainDarker: #202b4a;
+  --links: #5f4f7d;
 }
