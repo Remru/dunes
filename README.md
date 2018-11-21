@@ -8,7 +8,7 @@ http://discord.gg/nfggDZz
 Dunes is a minimalist and rounded discord theme
 
 #### Demo
-![Neutron Wallpaper]()
+![Demo Image](https://i.imgur.com/RATfN5X.jpg)
 
 # Installation
 1. Download theme file
