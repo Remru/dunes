@@ -1,9 +1,9 @@
 /* theme vars */
 :root {
   --bgImage: url("https://i.imgur.com/ZoWEHGm.jpg");
-  --mainColor: #202b4a;
-  --mainDarker: #2b44a1;
-  --links: #e60000;
+  --mainColor: #2e3e6b;
+  --mainDarker: #202b4a;
+  --links: #5f4f7d;
 }
 
 /* main color */
@@ -106,6 +106,7 @@
 .theme-dark .inner-zqa7da,
 .theme-dark .applicationTile-1Goy1W,
 .theme-dark .bar-2Qqk5Z,
+.theme-dark #friends .friends-table .friends-row:hover,
 .container-2VW0UT,
 .rowWrapperActive-2L7i9f,
 .popout-3sVMXz,
@@ -296,7 +297,7 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
 .titleWrapper-1l0xT9,
 .header-2o-2hj,
 .searchBar-6Kv8R2,
-.theme-dark .headerBar-UHpsPw, #friends .friends-table {
+.theme-dark .headerBar-UHpsPw {
   height: 40px;
 }
 /* server settings */
@@ -358,9 +359,6 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
 .searchBar-6Kv8R2 {
   box-shadow: none;
 }
-.titleWrapper-1l0xT9, .header-2o-2hj, .searchBar-6Kv8R2, .theme-dark .headerBar-UHpsPw, #friends .friends-table {
-  height: ;
-}
 .theme-dark .guild-1EfMGQ.audio-3vVhBi:after, .theme-dark .guild-1EfMGQ.video-15yGu3:after,
 .theme-dark .guildIconExpired-2Qcq05 {
   background-color: rgba(0,0,0,.4);
@@ -377,3 +375,6 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
 }.theme-dark .search-results-wrap .search-result:after,
 .theme-dark .search-results-wrap .search-result:before {display: none;}
 .wrapper-3jrx9n {border-color: var(--mainColor);}
+#qs_directory {background: rgba(0,0,0,.35);color:#fff;border: none;}
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action {background-color: var(--mainColor);}
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action:hover {background-color: var(--mainDarker);}
