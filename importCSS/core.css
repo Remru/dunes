@@ -145,6 +145,7 @@
 .theme-dark .wrapperHover-1GktnT:hover,
 .theme-dark .cardPrimaryOutline-29Ujqw,
 .theme-dark .footer-1kmXd4,
+.theme-dark .jumpToPresentBar-9P20AM,
 .theme-dark .defaultIndicator-G3c16x,
 .bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar,
 .theme-dark .member-3W1lQa:hover .content-OzHfo4,
@@ -159,6 +160,7 @@
 .theme-dark .modal-3HD5ck,
 .theme-dark .body-3iLsc4,
 .theme-dark .input-2VB9rf,
+.theme-dark.contextMenu-HLZMGh,
 .theme-dark .gamePreview-9weYR2,
 .theme-dark .item-3T2z1R,
 .theme-dark .header-ykumBX,
@@ -195,6 +197,7 @@
 .theme-dark .search .search-bar,
 .mention,
 .side-8zPYf6 .itemSelected-1qLhcL,
+.theme-dark.contextMenu-HLZMGh,
 .side-8zPYf6 .item-PXvHYJ,
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover,
 .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover,
@@ -391,3 +394,4 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
 .guild-1EfMGQ .avatar-small {border-radius: 50%;}
 .lookFilled-1Gx00P.colorGreen-29iAKY {color: #fff !important;}
 .theme-dark .accountBtnInner-sj5jLs {background-color: rgba(0,0,0,.35);}
+.jumpToPresentBar-9P20AM {border-radius: 50px;}
