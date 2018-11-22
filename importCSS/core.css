@@ -21,6 +21,7 @@
 .theme-dark .lookOutlined-3sRXeN.colorTransparent-1ewNp9,
 .side-8zPYf6 .itemSelected-1qLhcL,
 .bd-pfbtn,
+.theme-dark .questionMark-CWEQZn,
 .aka-1mqp34,
 .option-n0icdO:hover,
 .selected-mKYnfr.option-n0icdO,
@@ -46,6 +47,7 @@
 .theme-dark .payment-xT17Mq,
 .container-2Rl01u,
 .theme-dark .tileMedia-1q3guD,
+.theme-dark .root-26DmKJ,
 .theme-dark .modal-3HD5ck,
 .theme-dark .tileMedia-24cT6_,
 .header-2o-2hj,
@@ -102,8 +104,12 @@
 .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC,
 .contentSelectedVoice-1WDIBM,
 .carousel-2WxMes,
+.theme-dark .libraryFilterInput-3JzqZD,
 .theme-dark .quickMessage-1yeL4E,
 .theme-dark .inner-zqa7da,
+.theme-dark .browseSearchInput-Jt8kg0,
+.theme-dark .dockItem-2kQDqg:hover,
+.theme-dark .topPill-30KHOu .item-PXvHYJ:hover:not(.itemSelected-1qLhcL),
 .theme-dark .applicationTile-1Goy1W,
 .theme-dark .bar-2Qqk5Z,
 .theme-dark #friends .friends-table .friends-row:hover,
@@ -139,6 +145,7 @@
 .theme-dark .wrapperHover-1GktnT:hover,
 .theme-dark .cardPrimaryOutline-29Ujqw,
 .theme-dark .footer-1kmXd4,
+.theme-dark .defaultIndicator-G3c16x,
 .bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar,
 .theme-dark .member-3W1lQa:hover .content-OzHfo4,
 .theme-dark .cardPrimaryEditable-3KtE4g,
@@ -167,6 +174,7 @@
 .contentSelectedText-3wUhMi,
 .theme-dark .input-2VB9rf,
 .search-bar,
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected,
 .carouselContainer-1KvOK0,
 .carouselItem-3UIHqv,
 .container-2VW0UT,
@@ -202,7 +210,8 @@
 .theme-dark .bda-slist li,
 .theme-dark .input-2VB9rf,
 .theme-dark .wrapper-35wsBm,
-.search-bar .search-bar-inner
+.search-bar .search-bar-inner,
+.theme-dark .accountBtnInner-sj5jLs,
 .theme-dark .paymentRow-2e7VM6,
 .theme-dark .search-results-wrap .search-result .search-result-message.hit,
 .theme-dark .messageGroupWrapper-o-Zw7G,
@@ -241,7 +250,7 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
 .appMount-3VJmYg {
   background-position: center !important;
   background-repeat: no-repeat !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
   background-image: var(--bgImage) !important;
 }
 /* guild add btn */
@@ -378,3 +387,7 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
 #qs_directory {background: rgba(0,0,0,.35);color:#fff;border: none;}
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action {background-color: var(--mainColor);}
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action:hover {background-color: var(--mainDarker);}
+.textAreaEdit-bNLDk3, .textAreaEnabled-3vQ5WZ, .textAreaEnabledNoAttach-1WxUwj, .textAreaForm-18s4EO {border-radius: 0;}
+.guild-1EfMGQ .avatar-small {border-radius: 50%;}
+.lookFilled-1Gx00P.colorGreen-29iAKY {color: #fff !important;}
+.theme-dark .accountBtnInner-sj5jLs {background-color: rgba(0,0,0,.35);}
