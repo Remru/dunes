@@ -69,7 +69,9 @@
 .theme-dark .item-1GzJrl,
 .emojiPicker-3m1S-j .scrollerWrap-PyxcLY,
 .scrollerWrap-2lJEkd,
+.theme-dark .noChannel-Z1DQK7,
 .emojiPicker-3m1S-j .scroller-3vODG7,
+.bda-dark #bda-qem,
 .theme-dark .search-results-wrap .channel-separator .channel-name,
 .bda-dark .emoji-picker .header .search-bar,
 .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar,
@@ -89,6 +91,7 @@
 .container-1UB9sr,
 .theme-dark .contentRegion-3nDuYy,
 .theme-dark .body-SKIE6r,
+.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container,
 .theme-dark .sidebarRegion-VFTUkN,
 .bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3m1S-j .category-2U57w6,
 .theme-light .container-2Thooq,
@@ -147,10 +150,13 @@
 .theme-dark .footer-1kmXd4,
 .theme-dark .jumpToPresentBar-9P20AM,
 .theme-dark .defaultIndicator-G3c16x,
+.theme-dark .searchBar-1MOL6S,
+.bda-dark #bda-qem button,
 .bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar,
 .theme-dark .member-3W1lQa:hover .content-OzHfo4,
 .theme-dark .cardPrimaryEditable-3KtE4g,
 .theme-dark .wrapper-35wsBm,
+.theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN,
 .search-bar,
 .theme-dark .member-3W1lQa.popout-open .content-OzHfo4,
 .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
@@ -162,6 +168,7 @@
 .theme-dark .input-2VB9rf,
 .theme-dark.contextMenu-HLZMGh,
 .theme-dark .gamePreview-9weYR2,
+.bda-dark #bda-qem button.active,
 .theme-dark .item-3T2z1R,
 .theme-dark .header-ykumBX,
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6,
@@ -212,10 +219,15 @@
 .theme-dark .cardPrimary-1Hv-to,
 .theme-dark .bda-slist li,
 .theme-dark .input-2VB9rf,
+.emojiPicker-3m1S-j,
+.bda-dark #bda-qem,
+.emojiPicker-3m1S-j .header-1nkwgG,
 .theme-dark .wrapper-35wsBm,
 .search-bar .search-bar-inner,
 .theme-dark .accountBtnInner-sj5jLs,
 .theme-dark .paymentRow-2e7VM6,
+.theme-dark .auditLog-3jNbM6,
+.bda-dark #bda-qem button,
 .theme-dark .search-results-wrap .search-result .search-result-message.hit,
 .theme-dark .messageGroupWrapper-o-Zw7G,
 .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC,
@@ -226,7 +238,7 @@
 .search-bar .search-bar-inner,
 .theme-dark .search-results-wrap .search-result.expanded,
 .theme-dark .select-2TCrqx .is-disabled .Select-control,
-.theme-dark .markup-2BOw-j pre {border: none;}
+.theme-dark .markup-2BOw-j pre {border: none !important;}
 
 /* New messages notification */
 .newMessagesBar-mujexs {background-color: var(--mainColor);}
@@ -395,3 +407,4 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
 .lookFilled-1Gx00P.colorGreen-29iAKY {color: #fff !important;}
 .theme-dark .accountBtnInner-sj5jLs {background-color: rgba(0,0,0,.35);}
 .jumpToPresentBar-9P20AM {border-radius: 50px;}
+.search-bar.search-bar-light {height:15px;}
