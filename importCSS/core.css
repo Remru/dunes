@@ -198,7 +198,6 @@
 .contentSelectedVoice-1WDIBM,
 .search-bar .search-bar-inner,
 .theme-dark .inner-zqa7da,
-.theme-dark .isMentioned-N-h9aa,
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary,
 .theme-dark .quickMessage-1yeL4E,
 .theme-dark .wrapperHover-1GktnT,
@@ -241,6 +240,7 @@
 .theme-dark .select-2TCrqx .is-disabled .Select-control,
 .theme-dark .markup-2BOw-j pre {border: none !important;}
 
+.theme-dark .isMentioned-N-h9aa {border-radius: 4px;}
 /* New messages notification */
 .newMessagesBar-mujexs {background-color: var(--mainColor);}
 .dismiss-SCAH9H {
